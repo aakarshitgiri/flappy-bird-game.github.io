@@ -11,13 +11,4 @@ We're not using any framework to build the game, Just Vanilla JavaScript.
 
 This is a beginner's guide on how to create the flappy bird game using JavaScript and HTML.
 
-To follow the tutorial step by step, please download the starter template, and then follow this link:
 
-https://youtu.be/0ArCFchlTq4
-
-*************
-Social Media
-*************
-
-Facebook : https://web.facebook.com/codeeplainedorg
-Twitter : https://twitter.com/code_explained
